@@ -18,7 +18,7 @@ a = 3
 b = 8
 c = a + b
 ```
-O operador soma, indicado pelo símbolo `+`, é o encarregado de encontrar a soma de suas variáveis do tipo `int`. Repare que o resultado também é do tipo `int` (você pode se assegurar disso com o comando `type(c)` no código acima).
+O operador soma, indicado pelo símbolo `+`, é o encarregado de encontrar a soma de duas variáveis do tipo `int`. Repare que o resultado também é do tipo `int` (você pode se assegurar disso com o comando `type(c)` no código acima).
 
 Mas observe agora o código abaixo: 
 ```python
