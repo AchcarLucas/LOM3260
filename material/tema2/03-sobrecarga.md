@@ -33,6 +33,7 @@ Chamamos esse "abuso" de um mesmo símbolo para indicar coisas diferentes de **s
 Veja outro exemplo de uso do operador `+` que você pode usar para resolver muitos problemas práticos:
 a = '3'
 ```python
+a = '3'
 b = '8'
 c = a + b
 print(c)
