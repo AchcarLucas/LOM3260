@@ -64,14 +64,7 @@ y = x * x
 s = f'O valor de {x} ao quadrado é {y}'
 print(s)
 ```
-O python simplesmente substitui (interpola) os valores das variáveis `x` e `y` na sua string! Depois disso, basta imprimi-la normalmente. Veja que você pode fazer tudo ---
-title: Saída com print()
-parent: temaone
-nav_order: 4
-status: green
-tags: [input, entrada, output, saída, print, formatação, formatada, interpoladas, f-strings, substituição]
-timestamp: 07/06/20
---- numa única linha:
+O python simplesmente substitui (interpola) os valores das variáveis `x` e `y` na sua string! Depois disso, basta imprimi-la normalmente. Veja que você pode fazer tudo numa única linha:
 ```python
 x = 5
 print(f'O valor de {x} ao quadrado é {x*x}')
